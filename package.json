@@ -1,0 +1,29 @@
+{
+  "name": "material-colors-json",
+  "version": "1.0.0",
+  "description": "Plain and simple JSON file with all of Google's Material Design colors",
+  "main": "colors.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buschtoens/material-colors-json.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "colors",
+    "colours",
+    "color",
+    "colour",
+    "json",
+    "Google"
+  ],
+  "author": "Jan Buschtöns <jan@buschtoens.me> (https://buschtoens.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buschtoens/material-colors-json/issues"
+  },
+  "homepage": "https://github.com/buschtoens/material-colors-json#readme"
+}
