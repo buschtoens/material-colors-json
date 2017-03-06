@@ -1,6 +1,6 @@
 {
   "name": "material-colors-json",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Plain and simple JSON file with all of Google's Material Design colors",
   "main": "colors.json",
   "scripts": {
